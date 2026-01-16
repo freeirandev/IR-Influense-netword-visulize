@@ -36,7 +36,7 @@ Use of this data is **strictly limited** to:
 
 This dataset is the result of systematic collection and analysis of publicly available Twitter (X) account metadata. It documents accounts exhibiting observable patterns consistent with amplification activities across multiple political influence ecosystems operating in the Persian-language information space.
 
-The dataset currently includes approximately **4,705 accounts** across two distinct network clusters, identified through graph-based analysis of public engagement data.
+The dataset currently includes approximately **4,816 accounts** across two distinct network clusters, identified through graph-based analysis of public engagement data.
 
 > **Note:** The term "network" is used in a technical, analytical sense referring to graph relationships and interaction patterns. It does not imply organizational membership, formal coordination, or command-and-control structures. See the [Legal Disclaimer](#-legal-ethical-and-methodological-disclaimer) for full details.
 

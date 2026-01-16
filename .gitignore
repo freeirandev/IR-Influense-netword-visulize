@@ -85,3 +85,9 @@ config.local.json
 *.tar.gz
 *.rar
 *.7z
+
+# ======================
+# Root Directory Scripts
+# ======================
+/*.py
+/*.js
