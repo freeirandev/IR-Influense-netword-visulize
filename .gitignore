@@ -1,0 +1,93 @@
+# ======================
+# OS Generated Files
+# ======================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ======================
+# Editor & IDE
+# ======================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# ======================
+# Python (if scripts added)
+# ======================
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+.env
+*.egg-info/
+dist/
+build/
+
+# ======================
+# Node.js (if scripts added)
+# ======================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+package-lock.json
+yarn.lock
+
+# ======================
+# Logs & Temp Files
+# ======================
+*.log
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# ======================
+# Data Processing
+# ======================
+# Uncomment if you have raw/intermediate files to ignore:
+# raw/
+# temp/
+# *.csv
+# *.xlsx
+
+# ======================
+# Secrets & Credentials
+# ======================
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+secrets.json
+credentials.json
+config.local.json
+
+# ======================
+# Archives
+# ======================
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# ======================
+# Root Directory Scripts
+# ======================
+/*.py
+/*.js
